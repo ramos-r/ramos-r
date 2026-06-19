@@ -10,7 +10,6 @@ Atualmente focada em desenvolvimento fullstack com Node.js + React.
 ## 🤎 Skills
 
 **Linguagens:** JavaScript, TypeScript, C#, Python
-
 **Back-end:** Node.js, Express.js, APIs RESTful, JWT  
 **Front-end:** React.jS, Next.js, HTML5, CSS3  
 **Database:** MySQL, PostgreSQL, MongoDB  
