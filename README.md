@@ -1,25 +1,24 @@
 ## ☕ Olá, eu sou a Rebecca! 
 
-💻 Desenvolvedora Fullstack Júnior
+💻 Desenvolvedora Fullstack Júnior  
+Atualmente focada em desenvolvimento fullstack com Node.js + React.
 
 ✦ *Código com leveza*
 ✦ *Foco e consistência* 
 ✦ *Aprendizado contínuo*
 
-## 🤎 Tecnologias e Competências
+## 🤎 Skills
 
-✦ **Linguagens:** JavaScript • TypeScript • C# • Python  
-✦ **Back-end:** Node.js • Express.js • APIs RESTful • JWT  
-✦ **Front-end:** React.js • Next.js • HTML5 • CSS3  
-✦ **Banco de Dados:** MySQL • PostgreSQL • MongoDB  
-✦ **Ferramentas e DevOps:** Git • GitHub • Docker • Swagger • Postman • Insomnia  
-✦ **Metodologias e Práticas:** Scrum • Kanban • CI/CD  
-✦ **Conceitos e Arquitetura:** POO • Clean Code • SOLID • MVC 
+**Linguagens:** JavaScript, TypeScript, C#, Python
 
-## 💬 Idiomas
+**Back-end:** Node.js, Express.js, APIs RESTful, JWT  
+**Front-end:** React.jS, Next.js, HTML5, CSS3  
+**Database:** MySQL, PostgreSQL, MongoDB  
+**DevOps:** CI/CD, Docker  
+**Conceitos e Arquitetura:** POO, Clean Code, SOLID, MVC  
+**Metodologias e Práticas:** Scrum, Kanban  
+**Em aprendizado:** AWS
 
-✦ Português (Nativo)  
-✦ Inglês (Avançado)
 
 ## 📂 Projetos em destaque
 ✦ API de Autenticação com JWT  
