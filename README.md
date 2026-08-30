@@ -1,6 +1,6 @@
 ## ☕ Olá, eu sou a Rebecca! 
 
-💻 Desenvolvedora Fullstack Júnior  
+💻 Desenvolvedora Fullstack
 Atualmente focada em desenvolvimento fullstack com Node.js + React.
 
 ✦ *Código com leveza*
