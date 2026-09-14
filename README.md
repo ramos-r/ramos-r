@@ -13,9 +13,9 @@
 **Currently Learning:** AWS  
 
 ## 📂 Recent Projects
-✦ **Time Tracking** • Desktop Task Management App : C#, SQLite  
-✦ **Ghibli Tasks** • Productivity Web App : Typescript, CSS,  
-✦ **Cozy & Caffeinated** • Personal Blog : JavaScript, TailwindCSS, Node.js, PostgreSQL   
+✦ **Time Tracking** • Desktop Application for Task/Time Management  -  C#, SQLite, MVVM
+✦ **Ghibli Tasks** • Productivity Web Application  -  Typescript, CSS, PostgreSQL  
+✦ **Cozy & Caffeinated** • Personal Blog Website  -  JavaScript, TailwindCSS, Node.js, PostgreSQL   
 
 ## ✉ Contact
 *Feel free to reach out! I'm always open to new connections and opportunities :)* 
