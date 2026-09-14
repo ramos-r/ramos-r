@@ -1,6 +1,6 @@
 ## ☕ Hello, I'm Rebecca! 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Baloo+2&weight=600&pause=1000&color=DF936FDC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;JavaScript%2FTS%2C+Node.js%2C+React.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Baloo+2&weight=600&size=28&pause=1000&color=DF936FDC&width=435&lines=Full-Stack+Developer;JavaScript%2FTS%2C+Node.js%2C+React.js)](https://git.io/typing-svg)
 
 ## 🤎 Stack
 **Languages:** JavaScript, TypeScript, C#, Python  
