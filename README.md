@@ -13,11 +13,11 @@
 **Currently Learning:** AWS  
 
 ## 📂 Recent Projects
-✦ Time Tracking - Desktop Task Management App - C#  
-✦ Ghibli Tasks - Productivity Web App - Typescript  
-✦ Cozy & Caffeinated - Personal Blog - JavaScript  
+✦ **Time Tracking** • Desktop Task Management App : C#, SQLite 
+✦ **Ghibli Tasks** • Productivity Web App : Typescript, CSS, 
+✦ **Cozy & Caffeinated** • Personal Blog : JavaScript, TailwindCSS, Node.js, PostgreSQL  
 
 ## ✉ Contact
 *Feel free to reach out! I'm always open to new connections and opportunities :)* 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6F4E37?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devramosr)  [![Email](https://img.shields.io/badge/Email-8B5E3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ramosr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6F4E37?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devramosr)  [![Email](https://img.shields.io/badge/Email-8B5E3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devramosr@proton.me)
