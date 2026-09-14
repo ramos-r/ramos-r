@@ -14,9 +14,9 @@ Currently focused on Fullstack Development with Node.js + React
 **Currently Learning:** AWS  
 
 ## 📂 Recent Projects
-✦ Time Tracking - Desktop Task Management App - C#
-✦ Ghibli Tasks - Productivity Web App - Typescript
-✦ Cozy & Caffeinated - Personal Blog - JavaScript
+✦ Time Tracking - Desktop Task Management App - C#  
+✦ Ghibli Tasks - Productivity Web App - Typescript  
+✦ Cozy & Caffeinated - Personal Blog - JavaScript  
 
 ## ✉ Contact
 *Feel free to reach out! I'm always open to new connections and opportunities :)* 
