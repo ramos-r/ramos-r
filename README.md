@@ -11,7 +11,7 @@ Currently focused on Fullstack Development with Node.js + React
 **DevOps:** CI/CD, Docker  
 **Concepts & Architecture:** POO, Clean Code, SOLID, MVC  
 **Methodologies & Practices:** Scrum, Kanban  
-**Currently Learning** AWS  
+**Currently Learning:** AWS  
 
 ## 📂 Recent Projects
 ✦ Time Tracking - Desktop Task Management App - C#
