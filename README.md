@@ -1,6 +1,6 @@
 ## ☕ Hello, I'm Rebecca! 
 
-💻 Fullstack Developer 
+💻 Fullstack Developer  
 Currently focused on Fullstack Development with Node.js + React
 
 ## 🤎 Stack
